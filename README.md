@@ -27,8 +27,8 @@ Sam Yeo: 4th year Microbiology student currently living in Vancouver, BC. I love
 
 ## References
 
-Butzin, N.C., Deter H.S. "Regulatory proteins control a transcriptional network in response to antibiotic stress" Series GSE156896. GEO Accession viewer. (2020). Retrieved February 8, 2021, from [NCBI](https://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSE156896)
+1. Butzin, N.C., Deter H.S. "Regulatory proteins control a transcriptional network in response to antibiotic stress" Series GSE156896. GEO Accession viewer. (2020). Retrieved February 8, 2021, from [NCBI](https://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSE156896)
 
-Conly, J., & Johnston, B. (2005). "Where are all the new antibiotics? The new antibiotic paradox." The Canadian Journal of Infectious Diseases & Medical Microbiology, 16(3), 159–160. Retrieved February 8, 2021, from [NCBI](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC2095020/) 
+2. Conly, J., & Johnston, B. (2005). "Where are all the new antibiotics? The new antibiotic paradox." The Canadian Journal of Infectious Diseases & Medical Microbiology, 16(3), 159–160. Retrieved February 8, 2021, from [NCBI](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC2095020/) 
 
-Frequently Asked Questions — GEO - NCBI. (n.d.). Retrieved February 8, 2021, from [NCBI](https://www.ncbi.nlm.nih.gov/geo/info/faq.html)
+3. Frequently Asked Questions — GEO - NCBI. (n.d.). Retrieved February 8, 2021, from [NCBI](https://www.ncbi.nlm.nih.gov/geo/info/faq.html)
