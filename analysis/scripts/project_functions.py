@@ -1,7 +1,10 @@
 import pandas as pd
 import numpy as np
+import os
 
-data = pd.read_excel('scripts/data.xlsx')
+os.chdir('C:/Users/eilee/course-project-solo_115')
+
+data = pd.read_excel(r'data/raw/data.xlsx')
 
 def load_and_process(data):
 
