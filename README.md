@@ -2,6 +2,9 @@
 # Solo_115 
 # *E. coli* response genes to ampicillin induced antibiotic stress.
 
+## Tableau Online Dashboard
+https://us-west-2b.online.tableau.com/#/site/data301/workbooks/346448?:origin=card_share_link
+
 ## Milestones
 
 Details for Milestone are available on Canvas (left sidebar, Course Project) or [here](https://firas.moosvi.com/courses/data301/project/milestone01.html).
